@@ -1,0 +1,26 @@
+{
+  "name": "api.ligen131.com",
+  "version": "1.0.0",
+  "description": "API interface for ligen131.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ligen131/api.ligen131.com.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "ligen131",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ligen131/api.ligen131.com/issues"
+  },
+  "homepage": "https://github.com/ligen131/api.ligen131.com#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.18.1"
+  }
+}
